@@ -1,0 +1,9 @@
+{
+  "modelPath": "/Users/nischalvarasada/Work/Cognologix/Clients/iCertis/PoC/WeatherBot/BotBuilder-Samples/samples/csharp_dotnetcore/14.nlp-with-orchestrator/model",
+  "snapshotPath": "/Users/nischalvarasada/Work/Cognologix/Clients/iCertis/PoC/WeatherBot/BotBuilder-Samples/samples/csharp_dotnetcore/14.nlp-with-orchestrator/generated/orchestrator.blu",
+  "dataSources": {
+    "hierarchical": false,
+    "inputs": [],
+    "path": "/Users/nischalvarasada/Work/Cognologix/Clients/iCertis/PoC/WeatherBot/BotBuilder-Samples/samples/csharp_dotnetcore/14.nlp-with-orchestrator/dataSources"
+  }
+}
